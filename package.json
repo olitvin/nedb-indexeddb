@@ -1,6 +1,16 @@
 {
-  "name": "nedb",
+  "name": "nedb-indexeddb",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olitvin/nedb-indexeddb.git"
+  },
+  "author": [
+    {
+      "name": "Oleg Litvin",
+      "email": "olitvin@zuzex.com"
+    }
+  ],
   "dependencies": {
     "async": "~0.2.9",
     "binary-search-tree": "^0.2.4",
